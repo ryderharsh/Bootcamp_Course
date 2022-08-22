@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Vegan",
+		"descrip": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"weeks": 8,
+		"cost": 8000,
+		"level": "beginner",
+		"gym": true,
+		"client": "62e23f90f0a6e2e213e802a4"   
+    },
+    {
+        "title": "NONVegan",
+		"descrip": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"weeks": 10,
+		"cost": 14000,
+		"level": "beginner",
+		"gym": true,
+		"client": "62e230ec7a69c9166e5f71a5"   
+    },
+    {
+        "title": "NONVegan",
+		"descrip": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"weeks": 10,
+		"cost": 15000,
+		"level": "intermediate",
+		"gym": true,
+		"client": "62e231367a69c9166e5f71a9"   
+    },
+    {
+        "title": "Lactose Intolrant",
+		"descrip": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"weeks": 5,
+		"cost": 5000,
+		"level": "intermediate",
+		"gym": false,
+		"client": "62e231667a69c9166e5f71ab"
+    },
+    {
+        "title": "Protein high diet",
+		"descrip": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"weeks": 10,
+		"cost": 15000,
+		"level": "intermediate",
+		"gym": true,
+		"client": "62e2318a7a69c9166e5f71ad"
+    },
+    {
+        "title": "Protein high diet",
+		"descrip": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"weeks": 10,
+		"cost": 20000,
+		"level": "advanced",
+		"gym": true,
+		"client": "62e231cb7a69c9166e5f71b1"
+    },
+    {
+        "title": "SugerFree",
+		"descrip": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"weeks": 20,
+		"cost": 40000,
+		"level": "advanced",
+		"gym": false,
+		"client": "62e2325e7a69c9166e5f71b4"
+    },
+    {
+        "title": "Boil Food Only",
+		"descrip": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"weeks": 20,
+		"cost": 40000,
+		"level": "advanced",
+		"gym": false,
+		"client": "62e235c478d94ad46ee9c09e"   
+    },
+    {
+        "title": "Normal Diet",
+		"descrip": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"weeks": 8,
+		"cost": 5000,
+		"level": "advanced",
+		"gym": false,
+		"client": "62e2382c33c17e0c86dcbe0e" 
+    },
+    {
+        "title": "Normal Diet",
+		"descrip": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"weeks": 15,
+		"cost": 10000,
+		"level": "advanced",
+		"gym": false,
+		"client": "62e2392618750fe5be60e81f" 
+    },
+    {
+        "title": "Vegan",
+		"descrip": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+		"weeks": 15,
+		"cost": 12000,
+		"level": "advanced",
+		"gym": true,
+		"client": "62e23ef1e9de462f7149e70c" 
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Dr. Gautum Gulati",
+        "email": "gautum@gmail.com",
+        "role": "FRCS",
+        "password": "gautum@123"
+    },
+    {
+        "name": "Dr. Mohan Choudhary",
+        "email": "mohan@gmail.com",
+        "role": "MRCP",
+        "password": "mohan@123"
+    },
+    {
+        "name": "Dr. Parmila Sinha",
+        "email": "parmila@gmail.com",
+        "role": "MD",
+        "password": "parmila@123"
+    },
+    {
+        "name": "Dr. Amir Ansari",
+        "email": "amir@gmail.com",
+        "role": "MBBS",
+        "password": "amir@123"
+    }
+
+]

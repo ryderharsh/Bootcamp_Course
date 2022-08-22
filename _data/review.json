@@ -1,0 +1,66 @@
+[
+	{
+		"_id": "5d7a514b5d2c12c7449be020",
+		"title": "Learned a ton!",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": "8",
+		"client": "62e23f90f0a6e2e213e802a4",
+		"doctor": "62fbaae831772ba8ffcc3385"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be021",
+		"title": "Great bootcamp",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": "10",
+		"client": "62e230ec7a69c9166e5f71a5",
+		"doctor": "62fbaae831772ba8ffcc3388"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be022",
+		"title": "Got me a developer job",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": "7",
+		"client": "62e231367a69c9166e5f71a9",
+		"doctor": "62fbaae831772ba8ffcc3385"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be023",
+		"title": "Not that great",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": "4",
+		"client": "62e231667a69c9166e5f71ab",
+		"doctor": "62fbaae831772ba8ffcc3388"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be024",
+		"title": "Great overall experience",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": "7",
+		"client": "62e231cb7a69c9166e5f71b1",
+		"doctor": "62fbaae831772ba8ffcc3386"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be025",
+		"title": "Not worth the money",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": "5",
+		"client": "62e2382c33c17e0c86dcbe0e",
+		"doctor": "62fbaae831772ba8ffcc3386"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be026",
+		"title": "Best instructors",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": "10",
+		"client": "62e235c478d94ad46ee9c09e",
+		"doctor": "62fbaae831772ba8ffcc3387"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be027",
+		"title": "Was worth the investment",
+		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+		"rating": "7",
+		"client": "62e2392618750fe5be60e81f",
+		"doctor": "62fbaae831772ba8ffcc3387"
+	}
+]
